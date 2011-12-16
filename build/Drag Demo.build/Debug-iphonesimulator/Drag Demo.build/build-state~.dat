@@ -1,0 +1,454 @@
+TDrag Demo
+v7
+r0
+t345641940.422897
+cCheck dependencies
+cProcessInfoPlistFile "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Info.plist" Drag_Demo-Info.plist
+cCompileXIB "/Users/vipinjoshi/Drag Demo/MainWindow.xib"
+cCompileXIB "/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib"
+cProcessPCH /var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch.gch Drag_Demo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o" "/Users/vipinjoshi/Drag Demo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o" "/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o" "/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.h
+c000000004EE9D9F10000000000000158
+t1323948529
+s344
+i<UIKit/UIKit.h>
+
+N/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m
+c000000004EE9D9F100000000000006C2
+t1323948529
+s1730
+i"Drag_DemoAppDelegate.h"
+
+N/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.h
+c000000004EE9DA7200000000000003B4
+t1323948658
+s948
+i<UIKit/UIKit.h>
+
+N/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m
+c000000004EE9DC400000000000003E3D
+t1323949120
+s15933
+i"UIDropTableViewController.h"
+
+N/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib
+c000000004EE9DA5700000000000050A6
+t1323948631
+s20646
+
+N/Users/vipinjoshi/Drag Demo/Drag_Demo_Prefix.pch
+c000000004EE9D9F100000000000000BB
+t1323948529
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/vipinjoshi/Drag Demo/MainWindow.xib
+c000000004EE9D9F10000000000003E77
+t1323948529
+s15991
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app
+t2
+s0
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app.dSYM
+t2
+s0
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo
+t2
+s0
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Info.plist
+t1323949134
+s806
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/MainWindow.nib
+t1323949137
+s986
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/PkgInfo
+t1323949134
+s8
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/UIDropTableViewController.nib
+t1323949137
+s795
+
+N/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag Demo.LinkFileList
+c000000004EE9DC4E000000000000017E
+t1323949134
+s382
+
+N/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o
+t1323949140
+s48552
+
+N/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o
+t2
+s0
+
+N/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o
+t1323949140
+s6280
+
+N/Users/vipinjoshi/Drag Demo/main.m
+c000000004EE9D9F10000000000000176
+t1323948529
+s374
+i<UIKit/UIKit.h>
+
+N/var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch.gch
+t1323949139
+s15453392
+
+NDrag_Demo-Info.plist
+c000000004EE9D9F100000000000004D6
+t1323948529
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies345641934#345641934#0(0"0(0#1#0"8603066880#0"0#
+
+CCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o" "/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345641940.152282
+e345641940.322552
+r1
+xCompileC
+xbuild/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o
+x/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m345641940#345641940#0(0"0(0#0#58"/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m8604105856#1895"    cd "/Users/vipinjoshi/Drag Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-generated-files.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-own-target-headers.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-all-target-headers.hmap" -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-project-headers.hmap" "-F/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator" "-I/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/include" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources/i386" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources" -include /var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch -c "/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m" -o "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o"0#
+
+CCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o" "/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345641940.315142
+e345641940.422822
+r0
+xCompileC
+xbuild/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o
+x/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m: In function '-[UIDropTableViewController viewDidLoad]':
+o/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m:131: error: 'dropTable' undeclared (first use in this function)
+o/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m:131: error: (Each undeclared identifier is reported only once
+o/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m:131: error: for each function it appears in.)
+o/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m:131: warning: local declaration of 'srcData' hides instance variable
+o/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m:131: warning: local declaration of 'dstData' hides instance variable
+o{standard input}:928:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000007$pb"
+o{standard input}:928:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:922:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:922:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:895:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000007$pb"
+o{standard input}:895:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:889:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:889:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:879:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"
+o{standard input}:879:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:873:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:873:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:801:non-relocatable subtraction expression, "LC2" minus "L00000000006$pb"
+o{standard input}:801:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:798:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000006$pb"
+o{standard input}:798:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:794:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000006$pb"
+o{standard input}:794:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:782:non-relocatable subtraction expression, "L__NSConcreteStackBlock$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:782:symbol: "L__NSConcreteStackBlock$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:776:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000006$pb"
+o{standard input}:776:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:770:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:770:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:763:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000006$pb"
+o{standard input}:763:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:757:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.srcTableView$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:757:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.srcTableView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:717:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000005$pb"
+o{standard input}:717:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:713:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000005$pb"
+o{standard input}:713:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:684:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000004$pb"
+o{standard input}:684:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:680:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000004$pb"
+o{standard input}:680:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:671:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:671:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:665:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:665:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:656:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:656:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:648:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:648:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:643:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:643:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:634:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:634:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:626:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:626:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:620:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:620:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:611:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:611:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:604:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:604:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:598:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:598:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:591:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:591:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:585:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.srcData$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:585:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.srcData$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:578:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:578:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:572:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dropArea$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:572:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dropArea$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:565:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:565:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:559:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:559:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:552:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:552:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:546:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.srcTableView$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:546:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.srcTableView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:539:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:539:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:533:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstTableNavItem$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:533:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstTableNavItem$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:526:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:526:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:520:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.srcTableNavItem$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:520:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.srcTableNavItem$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:452:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"
+o{standard input}:452:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:444:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"
+o{standard input}:444:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:437:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:437:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:427:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"
+o{standard input}:427:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:424:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000003$pb"
+o{standard input}:424:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:418:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"
+o{standard input}:418:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:415:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"
+o{standard input}:415:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:409:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"
+o{standard input}:409:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:400:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"
+o{standard input}:400:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:394:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:394:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:386:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"
+o{standard input}:386:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:379:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000003$pb"
+o{standard input}:379:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:376:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000003$pb"
+o{standard input}:376:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:361:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000003$pb"
+o{standard input}:361:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:354:non-relocatable subtraction expression, "LC0" minus "L00000000003$pb"
+o{standard input}:354:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:351:non-relocatable subtraction expression, "LC1" minus "L00000000003$pb"
+o{standard input}:351:symbol: "LC1" can't be undefined in a subtraction expression
+o{standard input}:336:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"
+o{standard input}:336:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:333:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000003$pb"
+o{standard input}:333:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:319:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000003$pb"
+o{standard input}:319:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:312:non-relocatable subtraction expression, "LC0" minus "L00000000003$pb"
+o{standard input}:312:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:281:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000003$pb"
+o{standard input}:281:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:275:non-relocatable subtraction expression, "LC0" minus "L00000000003$pb"
+o{standard input}:275:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:272:non-relocatable subtraction expression, "LC0" minus "L00000000003$pb"
+o{standard input}:272:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:255:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:255:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:248:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:248:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:241:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:241:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:231:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"
+o{standard input}:231:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:225:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"
+o{standard input}:225:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:222:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000003$pb"
+o{standard input}:222:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:217:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:217:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:207:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"
+o{standard input}:207:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:201:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"
+o{standard input}:201:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:198:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000003$pb"
+o{standard input}:198:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:193:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.srcData$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:193:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.srcData$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:162:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000003$pb"
+o{standard input}:162:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:156:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:156:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:148:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"
+o{standard input}:148:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:142:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:142:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:130:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000003$pb"
+o{standard input}:130:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:126:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000003$pb"
+o{standard input}:126:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:93:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000002$pb"
+o{standard input}:93:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:87:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstTableNavItem$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:87:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstTableNavItem$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:57:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:57:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:51:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.srcTableNavItem$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:51:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.srcTableNavItem$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.srcTableNavItem$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.dstTableNavItem$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.srcData$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol LC0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol LC1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.srcTableView$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.dropArea$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L__NSConcreteStackBlock$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol LC2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+lSLF07#2@71"Compile /Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m345641940#345641940#0(24897"/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m: In function '-[UIDropTableViewController viewDidLoad]':/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m:131: error: 'dropTable' undeclared (first use in this function)/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m:131: error: (Each undeclared identifier is reported only once/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m:131: error: for each function it appears in.)/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m:131: warning: local declaration of 'srcData' hides instance variable/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m:131: warning: local declaration of 'dstData' hides instance variable{standard input}:928:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000007$pb"{standard input}:928:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:922:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" minus "L00000000007$pb"{standard input}:922:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:895:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000007$pb"{standard input}:895:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:889:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr" minus "L00000000007$pb"{standard input}:889:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:879:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"{standard input}:879:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:873:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" minus "L00000000007$pb"{standard input}:873:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:801:non-relocatable subtraction expression, "LC2" minus "L00000000006$pb"{standard input}:801:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:798:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000006$pb"{standard input}:798:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:794:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000006$pb"{standard input}:794:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:782:non-relocatable subtraction expression, "L__NSConcreteStackBlock$non_lazy_ptr" minus "L00000000006$pb"{standard input}:782:symbol: "L__NSConcreteStackBlock$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:776:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000006$pb"{standard input}:776:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:770:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" minus "L00000000006$pb"{standard input}:770:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:763:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000006$pb"{standard input}:763:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:757:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.srcTableView$non_lazy_ptr" minus "L00000000006$pb"{standard input}:757:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.srcTableView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:717:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000005$pb"{standard input}:717:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:713:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000005$pb"{standard input}:713:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:684:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000004$pb"{standard input}:684:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:680:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000004$pb"{standard input}:680:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:671:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:671:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:665:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr" minus "L00000000004$pb"{standard input}:665:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:656:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr" minus "L00000000004$pb"{standard input}:656:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:648:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:648:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:643:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr" minus "L00000000004$pb"{standard input}:643:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:634:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr" minus "L00000000004$pb"{standard input}:634:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:626:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:626:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:620:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr" minus "L00000000004$pb"{standard input}:620:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:611:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr" minus "L00000000004$pb"{standard input}:611:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:604:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:604:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:598:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr" minus "L00000000004$pb"{standard input}:598:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:591:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:591:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:585:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.srcData$non_lazy_ptr" minus "L00000000004$pb"{standard input}:585:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.srcData$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:578:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:578:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:572:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dropArea$non_lazy_ptr" minus "L00000000004$pb"{standard input}:572:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dropArea$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:565:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:565:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:559:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" minus "L00000000004$pb"{standard input}:559:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:552:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:552:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:546:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.srcTableView$non_lazy_ptr" minus "L00000000004$pb"{standard input}:546:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.srcTableView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:539:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:539:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:533:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstTableNavItem$non_lazy_ptr" minus "L00000000004$pb"{standard input}:533:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstTableNavItem$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:526:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:526:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:520:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.srcTableNavItem$non_lazy_ptr" minus "L00000000004$pb"{standard input}:520:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.srcTableNavItem$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:452:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"{standard input}:452:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:444:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"{standard input}:444:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:437:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:437:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:427:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"{standard input}:427:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:424:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000003$pb"{standard input}:424:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:418:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"{standard input}:418:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:415:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"{standard input}:415:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:409:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000003$pb"{standard input}:409:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:400:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"{standard input}:400:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:394:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:394:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:386:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"{standard input}:386:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:379:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000003$pb"{standard input}:379:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:376:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000003$pb"{standard input}:376:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:361:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000003$pb"{standard input}:361:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:354:non-relocatable subtraction expression, "LC0" minus "L00000000003$pb"{standard input}:354:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:351:non-relocatable subtraction expression, "LC1" minus "L00000000003$pb"{standard input}:351:symbol: "LC1" can't be undefined in a subtraction expression{standard input}:336:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"{standard input}:336:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:333:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000003$pb"{standard input}:333:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:319:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000003$pb"{standard input}:319:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:312:non-relocatable subtraction expression, "LC0" minus "L00000000003$pb"{standard input}:312:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:281:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000003$pb"{standard input}:281:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:275:non-relocatable subtraction expression, "LC0" minus "L00000000003$pb"{standard input}:275:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:272:non-relocatable subtraction expression, "LC0" minus "L00000000003$pb"{standard input}:272:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:255:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr" minus "L00000000003$pb"{standard input}:255:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:248:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr" minus "L00000000003$pb"{standard input}:248:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:241:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr" minus "L00000000003$pb"{standard input}:241:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:231:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"{standard input}:231:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:225:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"{standard input}:225:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:222:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000003$pb"{standard input}:222:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:217:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr" minus "L00000000003$pb"{standard input}:217:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:207:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"{standard input}:207:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:201:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"{standard input}:201:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:198:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000003$pb"{standard input}:198:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:193:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.srcData$non_lazy_ptr" minus "L00000000003$pb"{standard input}:193:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.srcData$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:162:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000003$pb"{standard input}:162:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:156:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:156:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:148:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"{standard input}:148:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:142:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:142:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:130:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000003$pb"{standard input}:130:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:126:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000003$pb"{standard input}:126:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:93:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000002$pb"{standard input}:93:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:87:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.dstTableNavItem$non_lazy_ptr" minus "L00000000002$pb"{standard input}:87:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.dstTableNavItem$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:57:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:57:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:51:non-relocatable subtraction expression, "L_OBJC_IVAR_$_UIDropTableViewController.srcTableNavItem$non_lazy_ptr" minus "L00000000001$pb"{standard input}:51:symbol: "L_OBJC_IVAR_$_UIDropTableViewController.srcTableNavItem$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.srcTableNavItem$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.dstTableNavItem$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.srcData$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.dstData$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.draggedCell$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.draggedData$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.pathFromDstTable$non_lazy_ptr{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol LC1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.srcTableView$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.dstTableView$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_UIDropTableViewController.dropArea$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L__NSConcreteStackBlock$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol LC2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_203(4@51"'dropTable' undeclared (first use in this function)345641940#121#128#0(6@63"/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m345641920#131#0#131#0#43"'*' undeclared (first use in this function)0(22@54"Local declaration of 'srcData' hides instance variable345641940#485#133#0(6@63"/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m345641920#131#0#131#0#0"0(22@54"Local declaration of 'dstData' hides instance variable345641940#618#133#0(6@63"/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m345641920#131#0#131#0#0"0(0#0#63"/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m8622021280#1905"    cd "/Users/vipinjoshi/Drag Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-generated-files.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-own-target-headers.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-all-target-headers.hmap" -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-project-headers.hmap" "-F/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator" "-I/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/include" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources/i386" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources" -include /var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch -c "/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m" -o "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o"1#
+
+CCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o" "/Users/vipinjoshi/Drag Demo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345641940.150976
+e345641940.315033
+r1
+xCompileC
+xbuild/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o
+x/Users/vipinjoshi/Drag Demo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/vipinjoshi/Drag Demo/main.m345641940#345641940#0(0"0(0#0#34"/Users/vipinjoshi/Drag Demo/main.m8619964416#1855"    cd "/Users/vipinjoshi/Drag Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-generated-files.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-own-target-headers.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-all-target-headers.hmap" -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-project-headers.hmap" "-F/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator" "-I/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/include" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources/i386" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources" -include /var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch -c "/Users/vipinjoshi/Drag Demo/main.m" -o "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib"
+s345641934.368987
+e345641937.048713
+r1
+xCompileXIB
+x/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on UIDropTableViewController.
+lSLF07#2@48"CompileXIB Classes/UIDropTableViewController.xib345641934#345641937#0(241"/* com.apple.ibtool.document.warnings *//Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on UIDropTableViewController.1(22@120"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on UIDropTableViewController.345641937#18446744073709551615#0#0(6@65"/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib345641431#18446744073709551615#0#18446744073709551615#0#0"0(0#0#65"/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib8621673792#583"    cd "/Users/vipinjoshi/Drag Demo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/UIDropTableViewController.nib" "/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/vipinjoshi/Drag Demo/MainWindow.xib"
+s345641934.368131
+e345641937.048451
+r1
+xCompileXIB
+x/Users/vipinjoshi/Drag Demo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib345641934#345641937#0(0"0(0#0#42"/Users/vipinjoshi/Drag Demo/MainWindow.xib8603993184#545"    cd "/Users/vipinjoshi/Drag Demo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/MainWindow.nib" "/Users/vipinjoshi/Drag Demo/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app.dSYM" "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo"
+r0
+
+CLd "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Info.plist" Drag_Demo-Info.plist
+s345641934.348107
+e345641934.368029
+r1
+xProcessInfoPlistFile
+x/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Info.plist
+xDrag_Demo-Info.plist
+lSLF07#2@28"Process Drag_Demo-Info.plist345641934#345641934#0(0"0(0#0#48"/Users/vipinjoshi/Drag Demo/Drag_Demo-Info.plist8606481152#458"    cd "/Users/vipinjoshi/Drag Demo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Drag_Demo-Info.plist -genpkginfo "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Info.plist"0#
+
+CProcessPCH /var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch.gch Drag_Demo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s345641937.048819
+e345641940.150760
+r1
+xProcessPCH
+x/var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch.gch
+xDrag_Demo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Drag_Demo_Prefix.pch345641937#345641940#0(0"0(0#0#48"/Users/vipinjoshi/Drag Demo/Drag_Demo_Prefix.pch8621799776#1754"    cd "/Users/vipinjoshi/Drag Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-generated-files.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-own-target-headers.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-all-target-headers.hmap" -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-project-headers.hmap" "-F/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator" "-I/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/include" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources/i386" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources" -c "/Users/vipinjoshi/Drag Demo/Drag_Demo_Prefix.pch" -o /var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch.gch0#
+
+CTouch "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app"
+r0
+

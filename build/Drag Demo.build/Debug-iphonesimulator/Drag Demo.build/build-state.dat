@@ -1,0 +1,457 @@
+TDrag Demo
+v7
+r0
+t345701689.778192
+cCheck dependencies
+cProcessInfoPlistFile "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Info.plist" Drag_Demo-Info.plist
+cCompileXIB "/Users/satyanarayanpatidar/Downloads/Drag Demo/MainWindow.xib"
+cCompileXIB "/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/UIDropTableViewController.xib"
+cProcessPCH /var/folders/Se/SeP+CStzEA0JqKWS+lCDsk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-fgqlqyxegwdhgxgshnuzwcpzqypf/Drag_Demo_Prefix.pch.gch Drag_Demo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o" "/Users/satyanarayanpatidar/Downloads/Drag Demo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o" "/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o" "/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/UIDropTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo" normal i386
+cGenerateDSYMFile "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app.dSYM" "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo"
+cTouch "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.h
+c000000004EE9D9F10000000000000158
+t1323948529
+s344
+i<UIKit/UIKit.h>
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m
+c000000004EE9DF34000000000000091F
+t1323949876
+s2335
+i"Drag_DemoAppDelegate.h"
+i"UIDropTableViewController.h"
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/UIDropTableViewController.h
+c000000004EE9DA7200000000000003B4
+t1323948658
+s948
+i<UIKit/UIKit.h>
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/UIDropTableViewController.m
+c000000004EEAC5AA0000000000003BD3
+t1324008874
+s15315
+i"UIDropTableViewController.h"
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/UIDropTableViewController.xib
+c000000004EE9DA5700000000000050A6
+t1323948631
+s20646
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/Drag_Demo_Prefix.pch
+c000000004EE9D9F100000000000000BB
+t1323948529
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/MainWindow.xib
+c000000004EE9D9F10000000000003E77
+t1323948529
+s15991
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app
+t1324008889
+s238
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app.dSYM
+t1324008889
+s102
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo
+t1324008889
+s41680
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Info.plist
+t1323949134
+s806
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/MainWindow.nib
+t1323949137
+s986
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/PkgInfo
+t1323949134
+s8
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/UIDropTableViewController.nib
+t1323949137
+s795
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag Demo.LinkFileList
+c000000004EEA975100000000000001B7
+t1323997009
+s439
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o
+t1323997014
+s52560
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o
+t1324008888
+s91116
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o
+t1323997014
+s6320
+
+N/Users/satyanarayanpatidar/Downloads/Drag Demo/main.m
+c000000004EE9D9F10000000000000176
+t1323948529
+s374
+i<UIKit/UIKit.h>
+
+N/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.h
+c000000004EE9D9F10000000000000158
+t1323948529
+s344
+i<UIKit/UIKit.h>
+
+N/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m
+c000000004EE9DF22000000000000091F
+t1323949858
+s2335
+i"Drag_DemoAppDelegate.h"
+i"UIDropTableViewController.h"
+
+N/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.h
+c000000004EE9DA7200000000000003B4
+t1323948658
+s948
+i<UIKit/UIKit.h>
+
+N/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m
+c000000004EE9DD120000000000003BD1
+t1323949330
+s15313
+i"UIDropTableViewController.h"
+
+N/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib
+c000000004EE9DA5700000000000050A6
+t1323948631
+s20646
+
+N/Users/vipinjoshi/Drag Demo/Drag_Demo_Prefix.pch
+c000000004EE9D9F100000000000000BB
+t1323948529
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/vipinjoshi/Drag Demo/MainWindow.xib
+c000000004EE9D9F10000000000003E77
+t1323948529
+s15991
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app
+t1323949863
+s238
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app.dSYM
+t1323949863
+s102
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo
+t1323949863
+s41564
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Info.plist
+t1323949134
+s806
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/MainWindow.nib
+t1323949137
+s986
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/PkgInfo
+t1323949134
+s8
+
+N/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/UIDropTableViewController.nib
+t1323949137
+s795
+
+N/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag Demo.LinkFileList
+c000000004EE9DC4E000000000000017E
+t1323949134
+s382
+
+N/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o
+t1323949862
+s52520
+
+N/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o
+t1323949443
+s91196
+
+N/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o
+t1323949140
+s6280
+
+N/Users/vipinjoshi/Drag Demo/main.m
+c000000004EE9D9F10000000000000176
+t1323948529
+s374
+i<UIKit/UIKit.h>
+
+N/var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch.gch
+t1323949139
+s15453392
+
+N/var/folders/Se/SeP+CStzEA0JqKWS+lCDsk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-fgqlqyxegwdhgxgshnuzwcpzqypf/Drag_Demo_Prefix.pch.gch
+t1323997013
+s15453392
+
+NDrag_Demo-Info.plist
+c000000004EE9D9F100000000000004D6
+t1323948529
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies345701682#345701682#0(0"0(0#1#0"8624764512#0"0#
+
+CCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o" "/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345689813.923300
+e345689814.220564
+r1
+xCompileC
+xbuild/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o
+x/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m: In function '-[Drag_DemoAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: no '-setBorderColor:' method found
+o/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: (Messages without a matching method signature
+o/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: will be assumed to return 'id' and accept
+o/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: '...' as arguments.)
+o/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m:30: warning: no '-setBorderWidth:' method found
+o/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m:31: warning: no '-setCornerRadius:' method found
+lSLF07#2@85"Compile /Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m345689813#345689814#0(922"/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m: In function '-[Drag_DemoAppDelegate application:didFinishLaunchingWithOptions:]':/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: no '-setBorderColor:' method found/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: (Messages without a matching method signature/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: will be assumed to return 'id' and accept/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: '...' as arguments.)/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m:30: warning: no '-setBorderWidth:' method found/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m:31: warning: no '-setCornerRadius:' method found4(22@34"No '-setBorderColor:' method found345689814#161#126#0(6@77"/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m345642676#29#0#29#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)345689814#287#137#0(6@77"/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m345642676#29#0#29#0#0"0(22@34"No '-setBorderWidth:' method found345689814#669#126#0(6@77"/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m345642676#30#0#30#0#19"no '*' method found0(22@35"No '-setCornerRadius:' method found345689814#795#127#0(6@77"/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m345642676#31#0#31#0#19"no '*' method found0(0#0#77"/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m8617853600#2104"    cd "/Users/satyanarayanpatidar/Downloads/Drag Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-generated-files.hmap" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-own-target-headers.hmap" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-all-target-headers.hmap" -iquote "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-project-headers.hmap" "-F/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/include" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources/i386" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources" -include /var/folders/Se/SeP+CStzEA0JqKWS+lCDsk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-fgqlqyxegwdhgxgshnuzwcpzqypf/Drag_Demo_Prefix.pch -c "/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/Drag_DemoAppDelegate.m" -o "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o"0#
+
+CCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o" "/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345642662.477783
+e345642663.037156
+r1
+xCompileC
+xbuild/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o
+x/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m: In function '-[Drag_DemoAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: no '-setBorderColor:' method found
+o/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: (Messages without a matching method signature
+o/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: will be assumed to return 'id' and accept
+o/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: '...' as arguments.)
+o/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m:30: warning: no '-setBorderWidth:' method found
+o/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m:31: warning: no '-setCornerRadius:' method found
+lSLF07#2@66"Compile /Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m345642662#345642663#0(789"/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m: In function '-[Drag_DemoAppDelegate application:didFinishLaunchingWithOptions:]':/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: no '-setBorderColor:' method found/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: (Messages without a matching method signature/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: will be assumed to return 'id' and accept/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m:29: warning: '...' as arguments.)/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m:30: warning: no '-setBorderWidth:' method found/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m:31: warning: no '-setCornerRadius:' method found4(22@34"No '-setBorderColor:' method found345642662#142#107#0(6@58"/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m345642658#29#0#29#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)345642662#249#118#0(6@58"/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m345642658#29#0#29#0#0"0(22@34"No '-setBorderWidth:' method found345642662#574#107#0(6@58"/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m345642658#30#0#30#0#19"no '*' method found0(22@35"No '-setCornerRadius:' method found345642662#681#108#0(6@58"/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m345642658#31#0#31#0#19"no '*' method found0(0#0#58"/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m8620308704#1895"    cd "/Users/vipinjoshi/Drag Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-generated-files.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-own-target-headers.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-all-target-headers.hmap" -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-project-headers.hmap" "-F/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator" "-I/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/include" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources/i386" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources" -include /var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch -c "/Users/vipinjoshi/Drag Demo/Classes/Drag_DemoAppDelegate.m" -o "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag_DemoAppDelegate.o"0#
+
+CCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o" "/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/UIDropTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345701682.687703
+e345701688.831183
+r1
+xCompileC
+xbuild/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o
+x/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/UIDropTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/UIDropTableViewController.m345701682#345701688#0(0"0(0#0#82"/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/UIDropTableViewController.m8622800960#2114"    cd "/Users/satyanarayanpatidar/Downloads/Drag Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-generated-files.hmap" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-own-target-headers.hmap" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-all-target-headers.hmap" -iquote "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-project-headers.hmap" "-F/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/include" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources/i386" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources" -include /var/folders/Se/SeP+CStzEA0JqKWS+lCDsk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-fgqlqyxegwdhgxgshnuzwcpzqypf/Drag_Demo_Prefix.pch -c "/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/UIDropTableViewController.m" -o "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o"0#
+
+CCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o" "/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345642243.199551
+e345642243.446829
+r1
+xCompileC
+xbuild/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o
+x/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m345642243#345642243#0(0"0(0#0#63"/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m8622348448#1905"    cd "/Users/vipinjoshi/Drag Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-generated-files.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-own-target-headers.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-all-target-headers.hmap" -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-project-headers.hmap" "-F/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator" "-I/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/include" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources/i386" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources" -include /var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch -c "/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.m" -o "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/UIDropTableViewController.o"0#
+
+CCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o" "/Users/satyanarayanpatidar/Downloads/Drag Demo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345689813.890887
+e345689814.044018
+r1
+xCompileC
+xbuild/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o
+x/Users/satyanarayanpatidar/Downloads/Drag Demo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/satyanarayanpatidar/Downloads/Drag Demo/main.m345689813#345689814#0(0"0(0#0#53"/Users/satyanarayanpatidar/Downloads/Drag Demo/main.m8626041824#2064"    cd "/Users/satyanarayanpatidar/Downloads/Drag Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-generated-files.hmap" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-own-target-headers.hmap" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-all-target-headers.hmap" -iquote "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-project-headers.hmap" "-F/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/include" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources/i386" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources" -include /var/folders/Se/SeP+CStzEA0JqKWS+lCDsk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-fgqlqyxegwdhgxgshnuzwcpzqypf/Drag_Demo_Prefix.pch -c "/Users/satyanarayanpatidar/Downloads/Drag Demo/main.m" -o "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o" "/Users/vipinjoshi/Drag Demo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s345641940.150976
+e345641940.315033
+r1
+xCompileC
+xbuild/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o
+x/Users/vipinjoshi/Drag Demo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/vipinjoshi/Drag Demo/main.m345641940#345641940#0(0"0(0#0#34"/Users/vipinjoshi/Drag Demo/main.m8619964416#1855"    cd "/Users/vipinjoshi/Drag Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-generated-files.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-own-target-headers.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-all-target-headers.hmap" -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-project-headers.hmap" "-F/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator" "-I/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/include" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources/i386" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources" -include /var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch -c "/Users/vipinjoshi/Drag Demo/main.m" -o "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/satyanarayanpatidar/Downloads/Drag Demo/Classes/UIDropTableViewController.xib"
+r0
+
+CCompileXIB "/Users/satyanarayanpatidar/Downloads/Drag Demo/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib"
+s345641934.368987
+e345641937.048713
+r1
+xCompileXIB
+x/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on UIDropTableViewController.
+lSLF07#2@48"CompileXIB Classes/UIDropTableViewController.xib345641934#345641937#0(241"/* com.apple.ibtool.document.warnings *//Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on UIDropTableViewController.1(22@120"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on UIDropTableViewController.345641937#18446744073709551615#0#0(6@65"/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib345641431#18446744073709551615#0#18446744073709551615#0#0"0(0#0#65"/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib8621673792#583"    cd "/Users/vipinjoshi/Drag Demo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/UIDropTableViewController.nib" "/Users/vipinjoshi/Drag Demo/Classes/UIDropTableViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/vipinjoshi/Drag Demo/MainWindow.xib"
+s345641934.368131
+e345641937.048451
+r1
+xCompileXIB
+x/Users/vipinjoshi/Drag Demo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib345641934#345641937#0(0"0(0#0#42"/Users/vipinjoshi/Drag Demo/MainWindow.xib8603993184#545"    cd "/Users/vipinjoshi/Drag Demo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/MainWindow.nib" "/Users/vipinjoshi/Drag Demo/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app.dSYM" "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo"
+s345701689.477980
+e345701689.709139
+r1
+xGenerateDSYMFile
+x/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app.dSYM
+x/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo
+lSLF07#2@119"GenerateDSYMFile "build/Debug-iphonesimulator/Drag Demo.app.dSYM" "build/Debug-iphonesimulator/Drag Demo.app/Drag Demo"345701689#345701689#0(0"0(0#0#98"/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo8625733792#419"    cd "/Users/satyanarayanpatidar/Downloads/Drag Demo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo" -o "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app.dSYM" "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo"
+s345642663.153495
+e345642663.348024
+r1
+xGenerateDSYMFile
+x/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app.dSYM
+x/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo
+lSLF07#2@119"GenerateDSYMFile "build/Debug-iphonesimulator/Drag Demo.app.dSYM" "build/Debug-iphonesimulator/Drag Demo.app/Drag Demo"345642663#345642663#0(0"0(0#0#79"/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo8621546144#362"    cd "/Users/vipinjoshi/Drag Demo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo" -o "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app.dSYM"0#
+
+CLd "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo" normal i386
+s345701688.831741
+e345701689.477862
+r1
+xLd
+x/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo
+xnormal
+xi386
+lSLF07#2@103"Link /Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo345701688#345701689#0(0"0(0#0#0"8625291072#960"    cd "/Users/satyanarayanpatidar/Downloads/Drag Demo"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator" "-F/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator" -filelist "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag Demo.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo"0#
+
+CLd "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo" normal i386
+s345642663.037461
+e345642663.153383
+r1
+xLd
+x/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo
+xnormal
+xi386
+lSLF07#2@84"Link /Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo345642663#345642663#0(0"0(0#0#0"8622849632#865"    cd "/Users/vipinjoshi/Drag Demo"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator" "-F/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator" -filelist "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Objects-normal/i386/Drag Demo.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Drag Demo"0#
+
+CProcessInfoPlistFile "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Info.plist" Drag_Demo-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Info.plist" Drag_Demo-Info.plist
+s345641934.348107
+e345641934.368029
+r1
+xProcessInfoPlistFile
+x/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Info.plist
+xDrag_Demo-Info.plist
+lSLF07#2@28"Process Drag_Demo-Info.plist345641934#345641934#0(0"0(0#0#48"/Users/vipinjoshi/Drag Demo/Drag_Demo-Info.plist8606481152#458"    cd "/Users/vipinjoshi/Drag Demo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Drag_Demo-Info.plist -genpkginfo "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app/Info.plist"0#
+
+CProcessPCH /var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch.gch Drag_Demo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s345641937.048819
+e345641940.150760
+r1
+xProcessPCH
+x/var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch.gch
+xDrag_Demo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Drag_Demo_Prefix.pch345641937#345641940#0(0"0(0#0#48"/Users/vipinjoshi/Drag Demo/Drag_Demo_Prefix.pch8621799776#1754"    cd "/Users/vipinjoshi/Drag Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-generated-files.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-own-target-headers.hmap" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-all-target-headers.hmap" -iquote "/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-project-headers.hmap" "-F/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator" "-I/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/include" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources/i386" "-I/Users/vipinjoshi/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources" -c "/Users/vipinjoshi/Drag Demo/Drag_Demo_Prefix.pch" -o /var/folders/9-/9-CanFatGE4pPNVUJt9aMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-gczfdqcdwcejotbqhgnitgedgwdz/Drag_Demo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Se/SeP+CStzEA0JqKWS+lCDsk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-fgqlqyxegwdhgxgshnuzwcpzqypf/Drag_Demo_Prefix.pch.gch Drag_Demo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s345689809.429875
+e345689813.890537
+r1
+xProcessPCH
+x/var/folders/Se/SeP+CStzEA0JqKWS+lCDsk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-fgqlqyxegwdhgxgshnuzwcpzqypf/Drag_Demo_Prefix.pch.gch
+xDrag_Demo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Drag_Demo_Prefix.pch345689809#345689813#0(0"0(0#0#67"/Users/satyanarayanpatidar/Downloads/Drag Demo/Drag_Demo_Prefix.pch8601436768#1944"    cd "/Users/satyanarayanpatidar/Downloads/Drag Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-generated-files.hmap" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-own-target-headers.hmap" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-all-target-headers.hmap" -iquote "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/Drag Demo-project-headers.hmap" "-F/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/include" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources/i386" "-I/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Drag Demo.build/Debug-iphonesimulator/Drag Demo.build/DerivedSources" -c "/Users/satyanarayanpatidar/Downloads/Drag Demo/Drag_Demo_Prefix.pch" -o /var/folders/Se/SeP+CStzEA0JqKWS+lCDsk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Drag_Demo_Prefix-fgqlqyxegwdhgxgshnuzwcpzqypf/Drag_Demo_Prefix.pch.gch0#
+
+CTouch "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app"
+s345701689.709241
+e345701689.778114
+r1
+xTouch
+x/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app
+lSLF07#2@94"Touch /Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app345701689#345701689#0(0"0(0#0#0"8622540928#300"    cd "/Users/satyanarayanpatidar/Downloads/Drag Demo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/satyanarayanpatidar/Downloads/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app"0#
+
+CTouch "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app"
+s345642663.348388
+e345642663.351495
+r1
+xTouch
+x/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app
+lSLF07#2@75"Touch /Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app345642663#345642663#0(0"0(0#0#0"8621623744#262"    cd "/Users/vipinjoshi/Drag Demo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/vipinjoshi/Drag Demo/build/Debug-iphonesimulator/Drag Demo.app"0#
+
